@@ -5,6 +5,8 @@ Right now I am doing:
 - 🔭 I’m currently working on a music website.
 - 🌱 I’m currently learning about Clean Code.
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="dunecoder.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -28,6 +30,8 @@ Right now I am doing:
 
 <br>
 <p></p>
+
+---
 
 ![iagotd's github stats](https://github-readme-stats.vercel.app/api?username=iagotd&count_private=true&show_icons=true&hide=contribs,prs)
 
