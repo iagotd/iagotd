@@ -33,7 +33,7 @@ Right now I am doing:
 
 ---
 
-![iagotd's github stats](https://github-readme-stats.vercel.app/api?username=iagotd&count_private=true&show_icons=true&hide=contribs,prs)
+![iagotd's github stats](https://github-readme-stats.vercel.app/api?username=iagotd&count_private=true&show_icons=true&hide=contribs)
 
 [website]: https://www.dunecoder.com
 [linkedin]: https://www.linkedin.com/in/iago-tudela-diaz
