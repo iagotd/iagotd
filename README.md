@@ -10,7 +10,7 @@ Right now I am doing:
 <img align="left" alt="dunecoder.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="iagotd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
-<p></p>
+<br>
 
 ### Languages and Tools:
 
