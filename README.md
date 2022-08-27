@@ -2,8 +2,8 @@
 I hope you enjoy my repositories. Don't hesitate to tell me if you see room for improvement.
 
 Right now I am doing:
-- 🔭 I’m currently working on a Login API using Hexagonal and DDD.
-- 🌱 I’m currently learning about Clean Architecture.
+- 🔭 Working at an undisclosed company.
+- 🌱 Developing a NFT project.
 
 ---
 
