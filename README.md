@@ -16,39 +16,44 @@ Currently, I’m working at an undisclosed company, contributing to innovative p
 ### :computer: Professional Technical Expertise:
 ```
 # Languages:
-- C/C++
-- Go
-- Java
-- Python
+    - C/C++
+    - Go
+    - Java
+    - Python
 
-# DevOps:
-- Docker
-- Kubernetes
-- Kafka
-- Jenkins/Bamboo
-- AWS/Cloudflare
+# DevOps & Cloud:
+    - Docker
+    - Kubernetes
+    - Kafka
+    - Jenkins/Bamboo
+    - AWS/Cloudflare
 
 # DB & Storage:
-- Postgres
-- MongoDB
-- sqlite
-- minIO/S3
+    - Postgres (Relational DB)
+    - MongoDB (NoSQL DB)
+    - SQLite (Embedded DB)
+    - minIO / S3 (Object Storage)
 
-# Other Skills:
-- sh, bash, zsh
-- CMake/Makefile
-- OS usage: Linux/MacOS/Windows
-- Design Patterns & Software Architecture
-- TDD, DDD
-- Networking
-- Frida
-- ADB & Android Reverse Engineering
-- Computer Science & Statistics
-- Cryptography
+# System Programming & Scripting
+    - sh, bash, zsh (Shell scripting)
+    - CMake / Makefile (Build systems)
+    - Operating System Proficiency: Linux, MacOS, Windows
 
-# Web:
-- TS/HTML5/CSS
-- React/NextJs
+# Networking & Security
+    - Networking (Protocols, troubleshooting, etc.)
+    - Frida (Security Research, Reverse Engineering)
+    - ADB (Android Debug Bridge) & Android Reverse Engineering
+    - Cryptography (Encryption, security protocols)
+
+# Other Expertise
+    - Computer Science (Foundational knowledge in algorithms, data structures, analysis)
+    - Statistics
+    - Cryptocurrency
+
+# Web Development:
+    - JavaScript/TypeScript
+    - HTML5/CSS
+    - React/NextJs
 
 ```
 ---
