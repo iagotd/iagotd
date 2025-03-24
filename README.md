@@ -23,6 +23,10 @@ Currently, I’m working at an undisclosed company, contributing to innovative p
 # Skills:
 - Bash
 
+# DevOps
+- Docker
+- Kubernetes
+
 # DB:
 - Postgres
 - MongoDB
@@ -30,9 +34,8 @@ Currently, I’m working at an undisclosed company, contributing to innovative p
 - mySQL/mariaDB
 
 # Web:
-- VSCode
 - TS/HTML5/CSS
-- NextJs
+- React/NextJs
 ```
 ---
 
