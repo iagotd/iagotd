@@ -23,7 +23,7 @@ Currently, I’m working at an undisclosed company, contributing to innovative p
 # Skills:
 - Bash
 
-# DevOps
+# DevOps:
 - Docker
 - Kubernetes
 
