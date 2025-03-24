@@ -13,29 +13,43 @@ Currently, I’m working at an undisclosed company, contributing to innovative p
 
 ---
 
-### :computer: Technical Expertise:
+### :computer: Professional Technical Expertise:
 ```
 # Languages:
-- Java
-- CC/C++
+- C/C++
 - Go
-
-# Skills:
-- Bash
+- Java
+- Python
 
 # DevOps:
 - Docker
 - Kubernetes
+- Kafka
+- Jenkins/Bamboo
+- AWS/Cloudflare
 
-# DB:
+# DB & Storage:
 - Postgres
 - MongoDB
 - sqlite
-- mySQL/mariaDB
+- minIO/S3
+
+# Other Skills:
+- sh, bash, zsh
+- CMake/Makefile
+- OS usage: Linux/MacOS/Windows
+- Design Patterns & Software Architecture
+- TDD, DDD
+- Networking
+- Frida
+- ADB & Android Reverse Engineering
+- Computer Science & Statistics
+- Cryptography
 
 # Web:
 - TS/HTML5/CSS
 - React/NextJs
+
 ```
 ---
 
