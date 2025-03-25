@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile
+# Welcome
 I'm a seasoned software engineer specializing in cybersecurity, where I bridge the gap between high-level application development and low-level systems programming. With extensive experience in designing secure, custom solutions, I bring a hybrid approach that leverages both senior-level strategic insights and hands-on low-level coding expertise.
 
 
