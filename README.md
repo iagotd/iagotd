@@ -8,7 +8,7 @@ Currently, I’m working at an undisclosed company, contributing to innovative p
 - :chart_with_upwards_trend: **Marketing Insights Solution:** Developing a data-driven platform to empower businesses with strategic marketing intelligence.
 
 ### Connect With Me:
-[<img align="left" alt="iagotd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="iagotd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/iago-tudela-diaz)
 <br>
 
 ---
