@@ -58,7 +58,7 @@ Currently, I’m working at an undisclosed company, contributing to innovative p
 ```
 ---
 
-![iagotd's github stats](https://github-readme-stats.vercel.app/api?username=iagotd&count_private=true&show_icons=true&hide=contribs)
+![iagotd's github stats](https://github-readme-stats.vercel.app/api?username=iagotd&count_private=true&show_icons=true&theme=radical&hide=contribs)
 
 [website]: https://www.dunecoder.com
 [linkedin]: https://www.linkedin.com/in/iago-tudela-diaz
