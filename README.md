@@ -1,5 +1,9 @@
 # Welcome
-I'm a seasoned software engineer specializing in cybersecurity, where I bridge the gap between high-level application development and low-level systems programming. With extensive experience in designing secure, custom solutions, I bring a hybrid approach that leverages both senior-level strategic insights and hands-on low-level coding expertise.
+I’m a Senior Cybersecurity Engineer with over 7 years of professional experience, specializing in building cybersecurity solutions across multiple operating systems. My work spans low-level and high-level software engineering, system architecture, tool development, and reverse engineering, with a focus on product-level business logic and system behavior.
+
+Beyond my professional work, I have a strong interest in cyber crime investigation and analysis, where I develop tools and techniques to support research, intelligence gathering, and a deeper understanding of cyber threats and criminal activity in the digital landscape.
+
+I’m driven by curiosity, purpose, integrity, and the challenge of solving complex technical problems.
 
 
 ### About Me
