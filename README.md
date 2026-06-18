@@ -45,12 +45,12 @@ Currently, I’m working at an undisclosed company, contributing to innovative p
 
 # Networking & Security
     - Networking (Protocols, troubleshooting, etc.)
-    - Frida (Security Research, Reverse Engineering)
-    - ADB (Android Debug Bridge) & Android Reverse Engineering
+    - Frida (Reverse Engineering)
+    - ADB, Android Reverse Engineering, JADX
     - Cryptography (Encryption, security protocols)
 
 # Other Expertise
-    - Computer Science (Foundational knowledge in algorithms, data structures, analysis)
+    - Computer Science
     - Statistics
     - Cryptocurrency
 
